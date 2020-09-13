@@ -1,2 +1,2 @@
 # NineGaps
-(C Program) Soduko-style basic math fact practice platform with a focus on problem-solving.Creates a mixed grid of missing numbers and operations, with each row and column having to equal a certain number. Has some filled and missing parts of the array, and the main goal is to use the key of missing numbers to find out where that particular number is supposed to be. This project offers many difficulties ranging from beginner to expert. Each difficulty has more missing numbers the harder it gets.
+(C Program) Soduko-style basic math fact practice platform with a focus on problem-solving.Creates a mixed grid of missing numbers and operations, with each row and column having to equal a certain number. 
